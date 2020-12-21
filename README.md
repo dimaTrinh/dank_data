@@ -40,14 +40,14 @@ After cleaning, we end up with 80,362 posts that are used as training/testing da
 | title | string | title of the submission |
 | media | string | link to associated meme media |
 | ups_normed | floating point value | ups normalized with subscribers |
-| dankornot | integer | label ups_normed for binary classification |
+| dank_level | integer | label ups_normed for binary classification |
 | processed_words | list of strings | filtered and stemmed words from title and image |
 | word_count | integer | number of words in title and image |
 | TextLength | integer | number of characters in title |
 | Sentiment | floating point value | text valence score |
-| avg_H | floating point value | average HSV hue value of meme |
-| avg_S | floating point value | average HSV saturation value of meme |
-| avg_V | floating point value | average HSV value value of meme |
+| avg_hue | floating point value | average HSV hue value of meme |
+| avg_saturation | floating point value | average HSV saturation value of meme |
+| avg_value | floating point value | average HSV value value of meme |
 | 30 colors | floating point value | normalized pixels of color in image |
 | VGG_features | list of strings | VGG\-16's first three guesses about image content |
 | VGG_probs | list of floating point values | the probabilities of the VGG\-16's first three guesses |
