@@ -63,4 +63,8 @@ For the Convoluted Neural Network section of the paper, we download and sample f
 | Test set       | 929   | 929      | 1,858 |
 | Total          | 3,713 | 3,713    | 7,426 |
 
+## Random Forest
+
+The notebook for the Random Forest model along with some supplementary analysis for the model can be found in the [notebook folder](./notebook).
+
 A more detailed description of the dataset and how we generate our attributes can be found in [_Dank or Not? -- Analyzing and Predicting Popularity of Memes on Reddit_](https://arxiv.org/abs/2011.14326)
