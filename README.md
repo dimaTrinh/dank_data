@@ -5,12 +5,15 @@ Supplementary data for the paper the _Dank or Not? -- Analyzing and Predicting P
 ## How to Cite
 
 ```
-@article{barnes2020dank,
-  title={Dank or Not? -- Analyzing and Predicting the Popularity of Memes on Reddit},
-  author={Barnes, Kate and and Riesenmy, Tiernon, and LLeshi, Eli and Trinh, Minh Duc and Balogh, Nóra and Molontay, Roland},
-  journal={arXiv preprint arXiv:2011.14326},
-  url={https://arxiv.org/abs/2011.14326},
-  year={2020}
+@article{barnes2021dank,
+  title={Dank or not? Analyzing and predicting the popularity of memes on Reddit},
+  author={Barnes, Kate and Riesenmy, Tiernon and Trinh, Minh Duc and Lleshi, Eli and Balogh, N{\'o}ra and Molontay, Roland},
+  journal={Applied Network Science},
+  volume={6},
+  number={1},
+  pages={1--24},
+  year={2021},
+  publisher={SpringerOpen}
 }
 ```
 
@@ -67,4 +70,4 @@ For the Convoluted Neural Network section of the paper, we download and sample f
 
 The notebook for the Random Forest model along with some supplementary analysis for the model can be found in the [notebook folder](./notebook).
 
-A more detailed description of the dataset and how we generate our attributes can be found in [_Dank or Not? -- Analyzing and Predicting Popularity of Memes on Reddit_](https://arxiv.org/abs/2011.14326)
+A more detailed description of the dataset and how we generate our attributes can be found in [_Dank or Not? -- Analyzing and Predicting Popularity of Memes on Reddit_](https://appliednetsci.springeropen.com/articles/10.1007/s41109-021-00358-7)
