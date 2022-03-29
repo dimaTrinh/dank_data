@@ -71,3 +71,9 @@ For the Convoluted Neural Network section of the paper, we download and sample f
 The notebook for the Random Forest model along with some supplementary analysis for the model can be found in the [notebook folder](./notebook).
 
 A more detailed description of the dataset and how we generate our attributes can be found in [_Dank or Not? -- Analyzing and Predicting Popularity of Memes on Reddit_](https://appliednetsci.springeropen.com/articles/10.1007/s41109-021-00358-7)
+
+## Image Analysis
+
+The notebooks for the image analysis and features extraction can be found in the [notebook folder](./notebook).
+
+Final plots and a more detailed description can be found in the Image Analysis section of [_Dank or Not? -- Analyzing and Predicting Popularity of Memes on Reddit_](https://appliednetsci.springeropen.com/articles/10.1007/s41109-021-00358-7)
